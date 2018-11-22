@@ -1,0 +1,30 @@
+button{
+    background-color: black;
+    border-bottom: none;
+    color: white;
+    padding: 14px 129px;
+    /*border-radius: 12px;*/
+    text-decoration: none;
+    font-size: 15px;
+    border-style: none;
+    
+
+
+}
+
+button{
+
+    background-color: black;
+    color: white;
+}
+
+/*footer{
+
+    background-color: black;
+    color: white;
+}
+*/
+
+body{
+background-color: black;
+}
